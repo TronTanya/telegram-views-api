@@ -32,6 +32,18 @@
 
 Примечание: Система использует `AllData.csv` для обучения.
 
+## Скриншоты
+
+![Структура проекта](scr/screenshot_project_structure.png)
+![Обучение модели](scr/screenshot_model_training.png)
+![Запуск API сервера](scr/screenshot_api_start.png)
+![JSON ответ](scr/screenshot_json_response.png)
+![Тестирование test_api.py (1)](scr/screenshot_test_api_1.png)
+![Тестирование test_api.py (2)](scr/screenshot_test_api_2.png)
+![Тестирование quick_test.py](scr/screenshot_quick_test.png)
+![Обработка тестового датасета](scr/screenshot_testdataset_processing.png)
+![Обработка тестового датасета (часть данных)](scr/screenshot_testdataset_processing_part.png)
+
 Быстрый старт
 
 ```bash
@@ -64,12 +76,7 @@ pip install -r requirements.txt
 python eda.py
 ```
 
-Это создаст графики и статистику:
-- `views_distribution.png` - распределение целевой переменной
-- `cpm_views_relationship.png` - взаимосвязь CPM и VIEWS
-- `channels_analysis.png` - анализ каналов
-- `temporal_analysis.png` - временные паттерны
-- `correlation_matrix.png` - матрица корреляций
+Графики создаются локально в ходе запуска и не хранятся в репозитории.
 
 3. Обучение модели
 
