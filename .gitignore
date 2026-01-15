@@ -51,6 +51,12 @@ model_metrics.txt
 *.jpg
 *.jpeg
 
+# Но скриншоты в scr/ должны попадать в Git
+!scr/
+!scr/*.png
+!scr/*.jpg
+!scr/*.jpeg
+
 # OS
 .DS_Store
 Thumbs.db
