@@ -38,6 +38,8 @@
 ![Обучение модели](scr/screenshot_model_training.png)
 ![Запуск API сервера](scr/screenshot_api_start.png)
 ![JSON ответ](scr/screenshot_json_response.png)
+![POST /predict headers](scr/screenshot_predict_headers.png)
+![POST /predict test results](scr/screenshot_predict_test_results.png)
 ![Тестирование test_api.py (1)](scr/screenshot_test_api_1.png)
 ![Тестирование test_api.py (2)](scr/screenshot_test_api_2.png)
 ![Тестирование quick_test.py](scr/screenshot_quick_test.png)
