@@ -32,6 +32,11 @@
 
 Примечание: Система использует `AllData.csv` для обучения.
 
+## Демо (Render)
+
+Сервис развернут в облаке:  
+https://telegram-views-api.onrender.com
+
 ## Скриншоты
 
 ![Структура проекта](scr/screenshot_project_structure.png)
